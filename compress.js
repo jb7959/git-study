@@ -15,6 +15,7 @@ function compress(str) {
     if( str.charAt(i) === prev ) {
 
       repeat++;
+	if(i=== str.length -1) result +=repeat;
 
     } else {
 
