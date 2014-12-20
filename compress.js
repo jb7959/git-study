@@ -1,3 +1,4 @@
+/* ddddd */
 function compress(str) {
 
   var repeat = 1;
